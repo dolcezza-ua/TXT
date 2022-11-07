@@ -1,0 +1,7 @@
+person :
+ name-Olha
+ surname-Chernikova
+ age=35
+ number_of_pets=0
+ salary-2000
+
