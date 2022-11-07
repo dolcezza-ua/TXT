@@ -1,0 +1,7 @@
+preferences:
+ favorite_movie - "My_dogs"
+ favorite_series - "My_cats"
+ favorite_food - ice_cream
+ favorite_season - spring
+ dream_country - France
+

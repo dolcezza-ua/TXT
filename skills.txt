@@ -1,0 +1,8 @@
+skills:
+ programming_languages - Pyton,JavaScript
+ sniffing_web_traffic - Charles, Fiddler
+ database - Postgres
+ non-relational_database - Redis
+ load_testing - Jmeter
+ development_methodology - Scrum
+
